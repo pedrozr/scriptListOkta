@@ -4,6 +4,7 @@
 ---
 **Objetivo:** Listar a quantidade de grupos e também seus membros participantes dentro do Okta mostrando assim as seguintes informações: Grupo do participante, nome, sobrenome, email e status dentro do grupo. 
 Requisitos mínimos: Ter a última versão do python instalado na sua máquina em sua última versão que pode ser baixada aqui. 
+
 **1º Passo:** Após baixar o python e o arquivo, deve-se instalar as dependências seguindo os comandos abaixo: 
 ```sh
 python.exe -m pip install --upgrade pip
